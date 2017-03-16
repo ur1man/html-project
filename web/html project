@@ -1,0 +1,63 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Home</title>
+<style type="text/css">
+body {
+	background-image: url(images/header.jpg);
+}
+body,td,th {
+	color: #FFF;
+}
+.text {
+	font-size: 36px;
+}
+.text {
+	font-size: 36px;
+}
+</style>
+</head>
+
+<body>
+<blockquote>
+  <blockquote>
+    <blockquote>
+      <blockquote>
+        <blockquote>
+          <blockquote>
+            <blockquote>
+              <blockquote>
+                <blockquote>
+                  <blockquote>
+                    <blockquote>
+                      <blockquote>
+                        <h1>&nbsp;</h1>
+                        <h1>&nbsp;</h1>
+                        <h1>&nbsp;</h1>
+                        <h1>&nbsp;</h1>
+                        <h1>&nbsp;</h1>
+                        <h1 class="text">Eladio Hernandez <a href="https://www.linkedin.com/in/eladio-hernandez-659735aa"><img src="https://lh3.googleusercontent.com/00APBMVQh3yraN704gKCeM63KzeQ-zHUi5wK6E9TjRQ26McyqYBt-zy__4i8GXDAfeys=w300" alt="" width="41" height="36"/></a></h1>
+                        <blockquote>
+                          <blockquote>
+                            <h1> <a href="Home.html"> Home </a> | <a href="Resume.html"> Resume </a></h1>
+                          </blockquote>
+                        </blockquote>
+                      </blockquote>
+                    </blockquote>
+                  </blockquote>
+                </blockquote>
+              </blockquote>
+            </blockquote>
+          </blockquote>
+        </blockquote>
+      </blockquote>
+    </blockquote>
+  </blockquote>
+</blockquote>
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</body>
+</html>
